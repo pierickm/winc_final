@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+}
+
+#hamburger-img {
+  width: 50px;
+  height: 50px;
+}
+.dropdown {
+  display: none;
+  width: 30%;
+  padding: 0;
+  position: absolute;
+}
+
+.dropdown li {
+  display: block;
+  border: 1.5px solid black;
+  list-style-type: none;
+  font-size: 23px;
+  height: 40px;
+  padding-top: 10px;
+  padding-bottom: 0;
+  padding-left: 10px;
+}
+.show {
+  display: block;
+}
+.home-bg {
+  background-color: white;
+}
+.blue-bg {
+  background-color: rgb(85, 136, 202);
+}
+.yellow-bg {
+  background-color: yellow;
+}
+.green-bg {
+  background-color: green;
+}
+.red-bg {
+  background-color: red;
+}
+h1 {
+  text-align: center;
+  font-size: 45px;
+  margin-top: 40%;
+}
